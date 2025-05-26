@@ -1,0 +1,20 @@
+þÿÿÿÍ###id###VisulizationRootBrowsableId###TargetIdNameDisplayName-###SearchableNonTechnicalFieldNamesOfDocument###ParentIds###ImmediateParentId###ReferenceFieldIds###ReconstitutionDataIDAssociatedCultureFieldIdAssociatedProjectVersion!AssociatedIndexDataVersionFieldId,AssociatedTechnicalFieldNamesHashCodeFieldId-AssociatedTechnicalFieldContentVersionFieldIdIndexAtomStoreCommentDatatypeValue###SearchFilterIdsTitleLanguageVersionConstant nameEvent class###UpdatableParentIdInterfaceMember_NameInterfaceMember_DatatypeInterfaceMember_ValueInterfaceMember_CommentNetwork titleLADFBD CodeAddressAcknowledgementModelIdEmailAddressAcknowledgedText
+ComingText	GoingTextCommonAlarmClassAcknowledgementBitAddress
+AlarmClass
+TriggerTag	AlarmTextPlcAcknowledgementBitAddressTriggerBitAddressAcknowledgementGroupTextInvalidAttempts	ValidDaysWarningDaysGenerationsMinNumPsswd
+ServerName
+PortNumberWindowsDomainStationNamePartnerNameNodeName	CycleUnit	CycleTimePictureTextNumber	ShortName
+LogoutTime	BackColor	GridColorTemplate	FunctionsAboveUpperLimitColorBackFillStyleBelowLowerLimitColorBorderBackColorBorderColorCaptionColorCaptionFontCaptionText	EdgeStyleFirstGradientColorFlashing
+FocusColorFont	ForeColorHelpTextHorizontalAlignmentHorizontalPictureAlignmentInnerBackColorOffInnerBackColorOnMiddleGradientColorModePictureAutoSizingSecondGradientColorSwitchOrientationTextOffTextOnTextOrientationVerticalAlignmentVerticalPictureAlignmentPropertyNameTagValueForPropertyTagPageUITypeEditorBitPositionRangeFromToAdaptPicture
+AutoSizingLayerPictureListScrollBarOrientationTransparentColor
+DataFormatFormatPatternUnitUITypeEditorTagExpressionUITypeEditorStartvalueUITypeEditorEndvalueProcessValue
+PictureOff	PictureOnColorEndStyle	FillStyleLineEndShapeStyle
+StartStyleStyleAlarmLowerLimitColorAlarmUpperLimitColorBarBackColorBarEdgeStyleBarOrientation
+ScaleColorScalePositionSegmentColoringWarningLowerLimitColorWarningUpperLimitColorBarColorBorderBrightColor3DBorderInnerStyle3DBorderOuterStyle3DBorderShadeColor3DCaption
+LabelColorPositionFontThumbBackColor	TickStyleAlarmSourceButtonBackColorButtonBackFillStyleButtonBarStyleButtonBorderBackColorButtonBorderColorButtonEdgeStyleButtonFirstGradientColorButtonMiddleGradientColorButtonSecondGradientColorColumnTextAckGroupColumnTextAlarmStateColumnTextAlarmTextColumnTextClassNameColumnTextDateColumnTextDeviceColumnTextDiagnosableColumnTextNumberColumnTextTime
+FilterTextGridlineColorSelectionBackColorSelectionForeColorSortByTimeDirectionTableBackColorTableEvenRowBackColor	TableFontTableForeColorTableHeaderBackColorTableHeaderBackFillStyleTableHeaderBorderBackColorTableHeaderBorderColorTableHeaderEdgeStyleTableHeaderFirstGradientColorTableHeaderFontTableHeaderForeColorTableHeaderMiddleGradientColorTableHeaderSecondGradientColorViewType
+LineColor1
+LineColor2OperatableAreaColor
+VisibilityDataTypeTagAddressPanelInfoAddressAccessModeAcquisitionTriggerModeAcquisitionCycleConfirmationTypeCoding
+ConnectionPlcNameControllerTagLimitHighConstantLimitHighLowConstantLimitLowHighConstantLimitLowConstant	JobNumber
+StartValueText.0Text.1Text.2
